@@ -22,11 +22,15 @@ $ usage: ft_ssl command [command opts] [command args]
 
 # Algorithms
 
+- MD5
+
 MD5 is a cryptographic hash function. It is short for "Message Digest 5". It has found to
 contain several vulnerabilities, but can still be safely used as a checksum to verify data
 integrity against unintentional corruption.
 
 ![alt text](https://raw.githubusercontent.com/lisov1y/ft_ssl_md5/master/img/md5_img.png)
+
+- SHA256
 
 SHA-256 is one of the functions in the SHA (Secure Hash Algorithms) family. The SHA
 algorithms were designed by the NSA. SHA-512 is currently used in part of the process

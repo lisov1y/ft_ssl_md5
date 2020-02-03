@@ -13,10 +13,14 @@ $ usage: ft_ssl command [command opts] [command args]
 ```
 # Command options
 
+| Plugin | README |
+| ------ | ------ |
 | -p | echo `STDIN` to `STDOUT` and append the checksum to `STDOUT` |
 | -q | quiet mode |
 | -r | reverse the format of the output |
 | -s | print the sum of the given string |
+
+# Algorithms
 
 MD5 is a cryptographic hash function. It is short for "Message Digest 5". It has found to
 contain several vulnerabilities, but can still be safely used as a checksum to verify data

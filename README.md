@@ -13,7 +13,7 @@ $ usage: ft_ssl command [command opts] [command args]
 ```
 # Command options
 
-| Plugin | README |
+| Option | Description |
 | ------ | ------ |
 | -p | echo `STDIN` to `STDOUT` and append the checksum to `STDOUT` |
 | -q | quiet mode |
